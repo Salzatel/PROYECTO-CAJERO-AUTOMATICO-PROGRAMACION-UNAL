@@ -16,6 +16,6 @@ int main()
     cout<<"\npeso: "<<peso;
     cout<<"\nnombre:"<<nombre;
     cout<<"\napodo:"<<apodo;
-
+    cout<<"no sea sapo"<<endl;
     return 0;
 }
