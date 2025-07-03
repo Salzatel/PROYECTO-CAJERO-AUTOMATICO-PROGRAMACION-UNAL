@@ -1,0 +1,21 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    int edad;
+    float peso;
+    string nombre;
+    string apodo;
+    cin>>edad;
+    cin>>peso;
+    cin.ignore();
+    getline(cin,nombre);
+    getline(cin,apodo);
+    cout<<"edad: "<<edad;
+    cout<<"\npeso: "<<peso;
+    cout<<"\nnombre:"<<nombre;
+    cout<<"\napodo:"<<apodo;
+
+    return 0;
+}
