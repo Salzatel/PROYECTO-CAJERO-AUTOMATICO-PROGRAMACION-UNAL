@@ -1,0 +1,4 @@
+
+transacción: consultar saldo, hecha por: Miguel Patiño
+transacción: retirar Dinero, hecha por: Miguel Patiño
+transacción: depositar Dinero, hecha por: Miguel Patiño
